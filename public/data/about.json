@@ -1,0 +1,109 @@
+{
+  "email": "rokas.rudzenskas@gmail.com",
+  "links": [
+    {
+      "url": "https://www.linkedin.com/in/rokasrudzianskas/",
+      "title": "LinkedIn",
+      "icon": "LinkedInIcon"
+    },
+    {
+      "url": "https://github.com/rookasrudzianskas",
+      "title": "GitHub",
+      "icon": "GithubIcon"
+    },
+    {
+      "url": "https://twitter.com/byrookas",
+      "title": "Twitter",
+      "icon": "TwitterIcon"
+    }
+  ],
+  "cv": {
+    "file": "rokas.rudzianskas.cv.pdf",
+    "title": "Download CV",
+    "label": "CV"
+  },
+  "description": [
+    "Full-Stack developer strongly influenced by storytelling, interactions, and UX. Addicted to startups, programming, and talking tech.",
+    "From Lithuania, based around the World."
+  ],
+  "subtitles": ["Rokas Rudzianskas"],
+  "skills": [
+    ["Web app architecture", "Mobile Development", "UX/UI Design", "Product Management", "Microservices Architecture", "Machine Learning with Pytorch"],
+    ["Full-Stack", "UX/UI", "Product", "DevOps", "Machine Learning", "Data Science", "Data Engineering", "Data Animations", "App Animations", "Web Animations"],
+    [
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "React",
+      "Vue",
+      "Node",
+      "Canvas",
+      "SVG",
+      "WebGL",
+      "React Native",
+      "Three.js",
+      "TypeScript",
+      "GraphQL",
+        "D3.js",
+        "Webpack",
+        "Babel",
+        "Gatsby",
+        "Next.js",
+        "Nuxt.js",
+        "Redux",
+      "AWS",
+        "Firebase",
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL",
+        "Docker",
+        "Kubernetes",
+        "Jest"
+    ],
+    ["Adobe XD", "Photoshop", "Illustrator", "After Effects", "Premiere Pro", "React Video"]
+  ],
+  "experiences": [
+    {
+      "position": "Advanced Mobile Apps Engineer",
+      "company": "Uizard Technology",
+      "time": "* current"
+    },
+    {
+      "position": "Intern of Machine Learning at Twitter",
+      "company": "At Twitter",
+      "time": "* current"
+    },
+    {
+      "position": "Advanced Full-Stack Engineer",
+      "company": "At ByRookas",
+      "time": "2018-2021"
+    },
+    {
+      "position": "Learning and contributing to open source",
+      "company": "Online Worldwide",
+      "time": "2011 - 2017"
+    },
+    {
+      "position": "Freelancer",
+      "company": "Illustrations, Web development & App development",
+      "time": "2011 - today"
+    }
+  ],
+  "languages": {
+    "fluent": [
+      ["en-US", "English"]
+    ],
+    "intermediate": [["en-US", "English"]],
+    "basic": [
+      ["dk-DK", "Danish"]
+    ]
+  },
+  "busy": ["Creating NFT Collections",
+    "Creating Tech Content @TikTok & @YouTube",
+    "Tweeting Tech Tweets",
+    "Open Sourcing",
+    "Learning Machine Learning",
+    "Learning animating with Three JS",
+    "Building apps with React Native"
+  ]
+}
